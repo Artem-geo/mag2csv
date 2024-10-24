@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-22.
-//
-
 #include "GEM.h"
 #include "fstream"
 #include "sstream"

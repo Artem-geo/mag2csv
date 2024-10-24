@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-22.
-//
-
 #ifndef GEM_H
 #define GEM_H
 #include "Magnetometer.h"

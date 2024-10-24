@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-15.
-//
-
 #include <fstream>
 #include <iostream>
 #include "Utils.h"

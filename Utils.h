@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-15.
-//
-
 #ifndef TXT_READER_H
 #define TXT_READER_H
 

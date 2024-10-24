@@ -1,11 +1,3 @@
-// GEM magnetometer file conversion terminal tool
-// Input parameters (separated by space)
-// 1: mag2csv.exe - executable file
-// 2: -b / -r - file specifier (-b for base, -r for rover)
-// 3: -d=2023-02-02 - read data from terminal (will be taken from the file if not specified)
-// 4: -s=c
-// 5: "C:\Dev\file_name.txt - file path
-
 #include <fstream>
 #include "Utils.h"
 #include "GEM.h"

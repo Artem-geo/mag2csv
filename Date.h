@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-16.
-//
-
 #ifndef DATE_H
 #define DATE_H
 
