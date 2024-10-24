@@ -7,4 +7,4 @@
 // date YYYY-MM-DD
 2023-11-31
 // data file path; use '/' to separate folders
-C:/Dev/mag_data_transform/cpp/mag2csv/test/data/rover/rover_2.txt
+C:/Dev/mag_data_transform/cpp/mag2csv/test/rover/rover_2.txt
