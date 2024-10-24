@@ -1,7 +1,3 @@
-//
-// Created by Artem on 2024-10-16.
-//
-
 #include "Date.h"
 #include <stdexcept>
 #include <iostream>
