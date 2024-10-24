@@ -1,0 +1,3 @@
+C:/Dev/mag_data_transform/cpp/mag2csv/cmake-build-debug/CMakeFiles/mag2csv.dir
+C:/Dev/mag_data_transform/cpp/mag2csv/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Dev/mag_data_transform/cpp/mag2csv/cmake-build-debug/CMakeFiles/rebuild_cache.dir
