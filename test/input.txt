@@ -1,0 +1,10 @@
+// 0 - GEM, 1 - TBC
+0
+// 0 - base, 1 - rover
+1
+// separator 0 - comma, 1 - space, 2 - semicolon
+1
+// date YYYY-MM-DD
+2023-11-31
+// data file path; use '/' to separate folders
+C:/Dev/mag_data_transform/cpp/mag2csv/test/rover/rover_2.txt
